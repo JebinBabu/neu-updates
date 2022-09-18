@@ -1,1 +1,1 @@
-This repository is for updating neu apps
+{versions:{"screensaver":"1.0.0"}}
